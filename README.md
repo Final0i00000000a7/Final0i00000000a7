@@ -4,6 +4,10 @@
 #### 4
 ##### 5
 ###### 6
+### ₇
+#### ₈
+##### ₉
+###### ₁₀
 <picture>
   <source media="prefers-color-scheme: dark" srcset="https://final0i00000000a7.github.io/Final0i00000000a7/snake/github-contribution-grid-snake-dark.svg"/>
   <source media="prefers-color-scheme: light" srcset="https://final0i00000000a7.github.io/Final0i00000000a7/snake/github-contribution-grid-snake.svg"/>
